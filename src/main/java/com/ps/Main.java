@@ -5,7 +5,6 @@ import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
